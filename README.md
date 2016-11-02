@@ -1,5 +1,11 @@
 # Sample features, clone from tinhte
 
+> Tham khảo:  https://tinhte.vn và bài viết chi tiết
+
+- Có khoảng 20 tin tức
+- CNAME tinhte.easywebhub.com
+
+
 ### Danh mục nhiều cấp
  - Thông tin - Sự Kiện
    - Tin Công nghệ
